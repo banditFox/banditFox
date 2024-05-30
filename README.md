@@ -8,7 +8,9 @@ aliases:
 ---
 
 - 👋 Hi, I’m Robert Mullins
-- 🌱 I’m currently learning Data Science, R Programming, R Markdown
+- 🌱 I’m currently enrolled in the: <br />
+Post Graduate Program in Artificial Intelligence and Machine Learning: <br />
+Business Applications (PGP-AIML) from The University of Texas at Austin’s McCombs School of Business
 - 📫 How to reach me: robertmullins@robertmullins.tech
 
 <!---
